@@ -1,6 +1,6 @@
  
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello+World!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=A491DF&height=300&section=header&text=Hello+World!&descAlignY=51&descAlign=62"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Anthony+Secon;)](https://git.io/typing-svg)
@@ -46,5 +46,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postman,idea,gradle,maven,github,vscode,eclipse&theme=dark)](https://skillicons.dev)
 
+<p align="center">
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A491DF&height=300&section=footer"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A491DF&height=120&section=footer"/>
+</p>

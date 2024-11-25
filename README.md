@@ -21,7 +21,7 @@
 
 ## Main skills
 ### Always improving
-<center>
+<p align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
@@ -29,7 +29,8 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,docker&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=arch,linux,discord&theme=dark)](https://skillicons.dev)
 
-</center>
+</p>
+
 <br>
 
 ## Work tools

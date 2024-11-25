@@ -31,7 +31,7 @@
 
 </p>
 
-##Still studying
+## Still studying
 
 <p align="center">
  

@@ -22,14 +22,21 @@
 <br>
 
 ## Main skills
-### Always improving
+
 <p align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,docker&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=arch,linux&theme=dark)](https://skillicons.dev)
+
+</p>
+
+##Still studying
+
+<p align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
 
 </p>
 

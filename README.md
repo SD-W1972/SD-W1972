@@ -6,11 +6,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Anthony+Secon+Duarte;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=25&center=true&vCenter=true&width=1000&lines=I+really+like+music;)](https://git.io/typing-svg)
 
-<div style="text-align: center">
- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6mpsxakhgh8v4cfs5pmysik1n&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6mpsxakhgh8v4cfs5pmysik1n&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
+  </a>
+</p>
 
-</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SD-W1972&bg_color=00000&color=A491DF&line=3452B2&point=3761E8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

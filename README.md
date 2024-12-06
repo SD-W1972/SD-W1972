@@ -1,5 +1,5 @@
  
-[![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me/SD-W1972/count.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Anthony+Secon;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=25&center=true&vCenter=true&width=1000&lines=16yo+Software+Enginner;)](https://git.io/typing-svg)

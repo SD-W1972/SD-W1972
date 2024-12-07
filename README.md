@@ -4,11 +4,35 @@
 	<br>
 </div> 
 
-
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Anthony+Secon+Duarte;)](https://git.io/typing-svg)
+
+
+# Main skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arch,linux&theme=dark" />
+</p>
+
+# Still studying
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
+</p>
+
+<br>
+
+# Work tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,idea,gradle,maven,github,vscode,eclipse&theme=dark" />
+</p>
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=25&center=true&vCenter=true&width=1000&lines=I+really+like+music;)](https://git.io/typing-svg)
 
 <p align="center">
@@ -32,33 +56,6 @@
 
 <br>
 <br>
-
-## Main skills
-
-<p align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=arch,linux&theme=dark)](https://skillicons.dev)
-
-</p>
-
-## Still studying
-
-<p align="center">
-
-
- [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,docker&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
-
-</p>
-
-<br>
-
-## Work tools
-
-[![My Skills](https://skillicons.dev/icons?i=postman,idea,gradle,maven,github,vscode,eclipse&theme=dark)](https://skillicons.dev)
-
 <p align="center">
 
 </p>

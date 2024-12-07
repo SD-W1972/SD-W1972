@@ -35,11 +35,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SD-W1972&bg_color=00000&color=A491DF&line=3452B2&point=3761E8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-##
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SD-W1972&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 
 <br>

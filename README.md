@@ -41,9 +41,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SD-W1972&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-| <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD-W1972&count_private=false&hide=html,css,vue,portugol&layout=compact&hide_border=true&title_color=3452B2&text_color=A491DF&bg_color=0d1117" /> | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SD-W1972&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
-| ----------- | ----------- |
-
 
 <br>
 <br>

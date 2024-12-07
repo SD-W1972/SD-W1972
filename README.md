@@ -5,7 +5,6 @@
 </div> 
 
 
-![Visitor Count](https://profile-counter.glitch.me/SD-W1972/count.svg)
 
 
 
@@ -63,3 +62,7 @@
 <p align="center">
 
 </p>
+
+
+![Visitor Count](https://profile-counter.glitch.me/SD-W1972/count.svg)
+

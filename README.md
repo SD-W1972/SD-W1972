@@ -1,4 +1,8 @@
- 
+<div align="center">
+	<img src="https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div> 
 ![Visitor Count](https://profile-counter.glitch.me/SD-W1972/count.svg)
 
 

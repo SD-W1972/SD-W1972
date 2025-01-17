@@ -13,7 +13,7 @@
 
 <p >
 	
-  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,thymeleaf&theme=dark" />
   <img src="https://skillicons.dev/icons?i=arch,linux&theme=dark" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=dark" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" />

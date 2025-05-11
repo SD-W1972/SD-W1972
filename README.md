@@ -32,13 +32,6 @@
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroth07&show_icons=true&locale=en&theme=dracula" alt="pedroth07" />
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroth07&layout=compact&theme=dracula)
-</p>
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SD-W1972&bg_color=00000&color=A491DF&line=3452B2&point=3761E8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 

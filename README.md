@@ -3,7 +3,7 @@
 	<br>
 	<br>
 </div> 
-
+ 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Anthony+Secon+Duarte;)](https://git.io/typing-svg)

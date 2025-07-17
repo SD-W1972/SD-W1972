@@ -8,25 +8,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Anthony+Secon+Duarte;)](https://git.io/typing-svg)
 
-# About me:
-<ul>
-	<li>I'm a 16yo backend developer</li>
-	<li>I'm currently focused in learning everything related to java to become a junior level backend software developer</li>
-	<li>I'm freelancing since the beginner of this year! Contact me in my <a href="anthonybemol@gmail.com">gmail</a> if you're interested</li>
-	<li>I'm studying devops</li>
-	<li>I'm interested in learning more things related to low level programming, such as Rust and C</li>
-	<li>I use Linux and rice my own systems for fun</li>
-	<li>Besides programming, my biggest hobbie is playing the guitar</li>
-</ul>
+##I like to participate in Hackathons and gain experience by freelancing
 
 # Things I like
-
-Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,php,rust&theme=dark" />
 </p>
 
-Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -34,34 +22,28 @@ Frameworks & Libraries
   <img src="https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white" />
 </p>
 
-Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 </p>
 
-DevOps & Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
 </p>
 
-Operating Systems
 <p>
   <img src="https://skillicons.dev/icons?i=arch,linux,fedora,ubuntu,debian&theme=dark" />
   <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" />
 </p>
 
-Build Tools & Package Managers
 <p>
   <img src="https://skillicons.dev/icons?i=maven,npm&theme=dark" />
 </p>
 
-Version Control & Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
 
-Web Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </p>

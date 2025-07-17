@@ -8,20 +8,50 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Anthony+Secon+Duarte;)](https://git.io/typing-svg)
 
-
 # Things I like
 
-<p >
-	
-  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=arch,linux&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
-
+## Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,php,cs,rust&theme=dark" />
 </p>
 
+## Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white" />
+</p>
 
+## Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+</p>
+
+## Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+</p>
+
+## DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+</p>
+
+## Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=arch,linux&theme=dark" />
+</p>
+
+## Build Tools & Package Managers
+<p>
+  <img src="https://skillicons.dev/icons?i=maven,npm&theme=dark" />
+</p>
+
+## Version Control & Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+</p>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=25&center=true&vCenter=true&width=1000&lines=I+really+like+music;)](https://git.io/typing-svg)

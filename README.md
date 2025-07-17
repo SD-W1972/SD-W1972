@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48" height="48" alt="Kubernetes" />
 <img src="https://skillicons.dev/icons?i=arch&theme=dark" width="48" height="48" alt="Arch Linux" />
 <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" />
-<img src="https://skillicons.dev/icons?i=fedora&theme=dark" width="48" height="48" alt="Fedora" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="48" height="48" alt="Fedora" />
 <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="48" height="48" alt="Ubuntu" />
 <img src="https://skillicons.dev/icons?i=debian&theme=dark" width="48" height="48" alt="Debian" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" width="48" height="48" alt="Manjaro" />

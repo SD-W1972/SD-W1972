@@ -10,54 +10,173 @@
 
 ## I'm a big nerd for technology and music
 
-# Things I like
+# 🚀 Tech Stack & Skills
 
-Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,php,rust&theme=dark" />
-</p>
+<div align="center">
 
-Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white" />
-</p>
+## 💻 Programming Languages
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" height="48" alt="C#" />
+<br>C#
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" width="48" height="48" alt="Rust" />
+<br>Rust
+</td>
+</tr>
+</table>
 
-Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-</p>
+## 🔧 Frameworks & Libraries
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring" />
+<br>Spring
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+<br>Spring Boot
+</td>
+<td align="center" width="96">
+<img src="https://www.thymeleaf.org/images/thymeleaf.png" width="48" height="48" alt="Thymeleaf" />
+<br>Thymeleaf
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" width="48" height="48" alt="Mockito" />
+<br>Mockito
+</td>
+</tr>
+</table>
 
-DevOps & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
-</p>
+## 🌐 Web Technologies
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" />
+<br>HTML
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" />
+<br>CSS
+</td>
+</tr>
+</table>
 
-Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=arch,linux,fedora,ubuntu,debian&theme=dark" />
-  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" />
-</p>
+## 🗄️ Databases
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+</tr>
+</table>
 
-Build Tools & Package Managers
-<p>
-  <img src="https://skillicons.dev/icons?i=maven,npm&theme=dark" />
-</p>
+## 🐳 DevOps & Infrastructure
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+</tr>
+</table>
 
-Version Control & Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-</p>
+## 🐧 Operating Systems
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=arch&theme=dark" width="48" height="48" alt="Arch Linux" />
+<br>Arch Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fedora&theme=dark" width="48" height="48" alt="Fedora" />
+<br>Fedora
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="48" height="48" alt="Ubuntu" />
+<br>Ubuntu
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=debian&theme=dark" width="48" height="48" alt="Debian" />
+<br>Debian
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" width="48" height="48" alt="Manjaro" />
+<br>Manjaro
+</td>
+<td align="center" width="96">
+<img src="https://assets.gentoo.org/tyrian/site-logo.svg" width="48" height="48" alt="Gentoo" />
+<br>Gentoo
+</td>
+</tr>
+</table>
 
-Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</p>
+## 🛠️ Build Tools & Package Managers
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48" height="48" alt="Maven" />
+<br>Maven
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=npm&theme=dark" width="48" height="48" alt="NPM" />
+<br>NPM
+</td>
+</tr>
+</table>
 
-<br>
+## 🔄 Version Control & Development Tools
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 *"Code is like humor. When you have to explain it, it's bad."* 🌟
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=25&center=true&vCenter=true&width=1000&lines=I+really+like+music;)](https://git.io/typing-svg)
 

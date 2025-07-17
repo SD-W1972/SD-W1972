@@ -19,7 +19,7 @@
 <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
 <img src="https://www.thymeleaf.org/images/thymeleaf.png" width="48" height="48" alt="Thymeleaf" />
-<img src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" width="48" height="48" alt="Mockito" />
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" height="48" alt="IntellijIDEA" />
 <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" />
 <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" />
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" />

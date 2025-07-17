@@ -166,14 +166,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 🌟 *"Code is like humor. When you have to explain it, it's bad."* 🌟
-
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=25&center=true&vCenter=true&width=1000&lines=I+really+like+music;)](https://git.io/typing-svg)
 
 <p align="center">

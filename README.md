@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A491DF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Anthony+Secon+Duarte;)](https://git.io/typing-svg)
 
-# I'm a big nerd for technology and music and these are some things I like
+# I'm a big tech and music nerd and these are some things I like
 
 <div align="center">
 
